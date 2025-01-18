@@ -35,7 +35,7 @@ public class Car {
     // Display car status
     // Note: method names start with a lowercase letter followed by uppercase, e.g., sayHello
     public void carInfo() {
-        System.out.println("AutoAuto: " + getBrand() + " " + getModel() + ", Nopeus: " + getSpeed() + " km/h");
+        System.out.println("Auto: " + getBrand() + " " + getModel() + ", Nopeus: " + getSpeed() + " km/h");
     }
 
     // Change the car's brand and model
