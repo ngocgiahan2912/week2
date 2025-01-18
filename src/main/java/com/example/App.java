@@ -20,7 +20,7 @@ public class App {
             }
 
             System.out.println("1) Näytä auton tila");
-            System.out.println("2) MMuokkaa auton merkkiä ja mallia");
+            System.out.println("2) Muokkaa auton merkkiä ja mallia");
             System.out.println("3) Kiihdytä autoa");
             System.out.println("4) Hidasta autoa");
             System.out.println("0) Lopeta ohjelma");
